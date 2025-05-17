@@ -95,6 +95,6 @@ Adicione também o script no seu `package.json`:
 
 ## 👨‍💻 Grupo
 
-Pedro do Couto Rosa Canova - 24.01570-9
-Victhor das Virgens de Lima Castro - 24.01503-2
-Robert Kevyn Gonçalves Gomes - 24.01631-4
+- Pedro do Couto Rosa Canova - 24.01570-9
+- Victhor das Virgens de Lima Castro - 24.01503-2
+- Robert Kevyn Gonçalves Gomes - 24.01631-4
