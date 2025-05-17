@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Ambiente
+.env
+
+# Test coverage (caso use cobertura de testes com Jest)
+coverage/
+
+# Cache do Jest
+jest-cache/
+jest-coverage/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
