@@ -48,8 +48,7 @@ Os testes foram desenvolvidos com **Jest**. Eles validam:
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repo>
-cd <nome-da-pasta>
+git clone https://github.com/pedrocanova/tdd_pi_chatbot.git
 ```
 
 ### 2. Instale as dependências
@@ -83,7 +82,6 @@ Adicione também o script no seu `package.json`:
 ## 📌 Observações
 
 - Este projeto **não utiliza banco de dados real**, apenas um `Map()` em memória.
-- Para fins didáticos, o "token" retornado no login é apenas uma string `'fake-token'`.
 
 ---
 
@@ -95,6 +93,8 @@ Adicione também o script no seu `package.json`:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Grupo
 
-Feito por Pedro — projeto para fins acadêmicos e práticos. 🚀
+Pedro do Couto Rosa Canova - 24.01570-9
+Victhor das Virgens de Lima Castro - 24.01503-2
+Robert Kevyn Gonçalves Gomes - 24.01631-4
